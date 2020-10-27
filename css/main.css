@@ -1012,12 +1012,12 @@ button:focus {
   #pricing .pricing-table h1 span {
     font-size: 16px;
     position: absolute;
-    left: 20%;
+    left: 0%;
     top: 10px; }
   #pricing .pricing-table ul {
     padding-bottom: 28px; }
   #pricing .pricing-table ul li {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 400;
     color: #5e629c;
     display: block;
