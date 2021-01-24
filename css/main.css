@@ -227,7 +227,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   vertical-align: middle; }
 
 .btn-singin {
-  background: #7fc9fb;
+  background: #ffffff;
   color: #fff;
   padding: 10px 23px;
   margin-left: 30px;
@@ -278,7 +278,7 @@ button:focus {
   color: #3c9cfd; }
 
 .btn-subtitle {
-  color: #191c1e;
+  color: #ffffff;
   font-family: 'Poppins', sans-serif;
   background: #dbecff;
   text-align: center;
